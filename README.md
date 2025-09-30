@@ -1,12 +1,14 @@
 ﻿
 # Pokémon XD: DX [Director's Cut]
 
+Pokémon XD: DX [Director’s Cut] is a feature-rich romhack that keeps the original story intact but transforms the entire experience. Trainer teams have been completely reworked, nearly every Pokémon line is obtainable, and items and movesets have been overhauled to keep battles fresh. DX embraces the Shadow Pokémon theme with a darker, stylized aesthetic and a stronger focus on variety and challenge. While not a “vanilla” replay, DX builds on the foundations of Gale of Darkness and XG: Next Gen to provide a more dynamic and enjoyable experience for long-time fans of the series.
+
 **Please Note:**  
 THIS ROMHACK IS NOT COMPATIBLE WITH MODERN POKÉMON GAMES.  
 YOU CANNOT TRANSFER POKÉMON UP TO CURRENT GAMES.  
 PLEASE DO NOT ASK ABOUT THIS.
 
-Hi again, I'm **SuperPep**.
+Hi, I'm **SuperPep**.
 
 After over 5 years, and more than 1000+ hours of development I am proud to present **Pokémon XD: DX [Director's Cut]**.
 
@@ -33,8 +35,6 @@ If you encounter bugs or issues, or would like to help development, please get i
 ----------
 
 ## Features
-
-Here are some highlights:
 
 -   Over 120+ Shadow Pokémon
     
