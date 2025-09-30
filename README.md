@@ -30,7 +30,7 @@ Additionally, 90% of the game has been completely overhauled, so this is NOT a v
 This project would not have even remotely been possible without the groundwork laid out by **StarsMMD** and all the lovely people over in the NGC/Wii Pokémon Romhacking Community.  
 Thank you all so much for your help. If you or a friend are interested in NGC/Wii Pokémon Romhacking, come join us in the Discord — we have a lot of fun there!
 
-If you encounter bugs or issues, or would like to help development, please get in touch with me on Discord so we can fix/upgrade the romhack ASAP.
+If you encounter bugs or issues, or would like to help development, please get in touch with me on [Discord](https://discord.gg/5qDCQpNPP6) so we can fix/upgrade the romhack ASAP.
 
 ----------
 
@@ -41,12 +41,18 @@ If you encounter bugs or issues, or would like to help development, please get i
 -   Over 75+ Wild Pokémon
     
 -   10+ Regional Variants from Modern Games
+
+-   18 'Starter' Pokémon available early
     
 -   30+ Custom Orre Regional Variants
     
 -   95% of Gen 1–3 Evolution Lines Obtainable
     
 -   Overhauled Abilities, Stats, and Learnsets
+
+-   Overhauled and Stylized Trainer Teams
+
+-   More than 40+ Trainers inspired by main-line games
     
 -   Reworked Item Drops + New Items
     
