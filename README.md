@@ -111,7 +111,7 @@ Here are some highlights:
 ## FAQ
 
 <details>
-  <summary>Can I randomize DX [Director's Cut]?</summary>
+  <summary><strong>Can I randomize DX [Director's Cut]?</strong></summary>
   DX is not designed to be randomized, nor will I introduce any further support for randomized runs.  
   Pokémon that were removed have had their UI portraits replaced and will appear incorrectly on a randomized run.  
 
@@ -120,14 +120,14 @@ Here are some highlights:
 </details>
 
 <details>
-  <summary>Is DX [Director's Cut] compatible with texture packs?</summary>
-  Unless you can find one that replaces **all** of the textures I updated, you will likely run into a significant amount of visual bugs.  
+  <summary><strong>Is DX [Director's Cut] compatible with texture packs?</strong></summary>
+  Unless you can find one that replaces <strong>all</strong> of the textures I updated, you will likely run into a significant amount of visual bugs.  
   So not really. I did a full UI overhaul for a reason!
 </details>
 
 <details>
-  <summary>Can I use cheats on DX [Director's Cut]?</summary>
-  Short answer is **no**.  
+  <summary><strong>Can I use cheats on DX [Director's Cut]?</strong></summary>
+  Short answer is <strong>no</strong>.  
 
   Long answer: many of the Pokémon XD cheats can and will break parts of the DX [Director's Cut] code and cause unknown issues, including corrupted saves and endless crashes.  
   If you put a cheat in and something looks broken, that's probably why.  
@@ -135,8 +135,8 @@ Here are some highlights:
 </details>
 
 <details>
-  <summary>Can I edit my DX [Director's Cut] save file?</summary>
-  Short answer is **no**.  
+  <summary><strong>Can I edit my DX [Director's Cut] save file?</strong></summary>
+  Short answer is <strong>no</strong>.  
 
   DX is not compatible with most save editors, including PKHeX and PKHax. These will cause unintended issues, and most likely, won't work at all.  
 
@@ -145,31 +145,32 @@ Here are some highlights:
 </details>
 
 <details>
-  <summary>Can I play this in widescreen?</summary>
+  <summary><strong>Can I play this in widescreen?</strong></summary>
   No. It's meant to be played in its original aspect ratio (4:3).  
   There will be black bars on both the left and right side of the screen.  
 
-  You *can* scale it up to a higher resolution (6x–8x recommended) to get a crisp image.  
+  You <em>can</em> scale it up to a higher resolution (6x–8x recommended) to get a crisp image.  
   But using widescreen cheats or hacks may cause unintended behaviors and crashes — do so at your own risk.
 </details>
 
 <details>
-  <summary>What happened to Battle CDs?</summary>
+  <summary><strong>What happened to Battle CDs?</strong></summary>
   Battle CDs and anything related to them have been completely removed from the game for various reasons.  
   They will likely not be added back in.
 </details>
 
 <details>
-  <summary>What happened to Battle Bingo?</summary>
+  <summary><strong>What happened to Battle Bingo?</strong></summary>
   Battle Bingo was also removed completely due to various issues.  
   It will likely not be returning, though the likelihood it returns is higher than Battle CDs.
 </details>
 
 <details>
-  <summary>Can I play DX on GameCube / Official Hardware?</summary>
+  <summary><strong>Can I play DX on GameCube / Official Hardware?</strong></summary>
   DX has not been tested on real hardware.  
   Please test and report back with your findings!
 </details>
+
 
 ----------
 
