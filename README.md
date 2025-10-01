@@ -179,6 +179,74 @@ If you encounter bugs or issues, or would like to help development, please get i
   Please test and report back with your findings!
 </details>
 
+----------
+
+
+## Recommended Dolphin Settings
+
+Run Dolphin as Admin if possible!
+
+NOTE: If you are still seeing lag/stuttering after applying all these Dolphin settings, make sure your GPU drivers
+are up-to-date and try restarting your computer. I know it sounds dumb, but it usually does help a lot.
+
+Config:
+	
+	General-
+	
+		Enable Dual Core = FALSE/Unchecked/Off
+		Enable Cheats = FALSE/Unchecked/Off
+	
+		Speed Limit = 100% (Normal Speed)
+	
+	Interface-
+	
+		Use Panic Handlers = FALSE/Unchecked/Off
+		
+	Audio-
+		
+		DSP Emulation Engine = LLE Recompiler (Slow)
+		Fill Audio Gaps = FALSE/Unchecked/Off
+		
+Graphics:
+	
+	General-
+		
+		Backend = Windows(Direct 3D 11 or OpenGL)
+			  Mac(Vulkan)
+		
+		Adapter = GPU
+		
+		Aspect Ratio = Force 4:3
+
+		V-Sync = FALSE/Unchecked/Off
+
+		
+	Enhancements-
+
+		Internal Resolution = Something that fits your screen
+		
+								720p Monitors, 2x Native
+								1080p Monitors, 3x Native
+								2k Monitors, 4x Native
+								4k Monitors, 5-6x Native
+								
+		Anti Aliasing = None
+		
+		Texture Filtering = Default
+		
+		Output Resampling = Default
+		
+		Widescreen Hack = FALSE/Unchecked/Off
+		
+		Arbitrary Mipmap Detection = TRUE/Checked/On
+	
+	Hacks-
+	
+		Skip EFB Access from CPU = FALSE/Unchecked/Off
+		
+		Texture Cache = Safe
+		
+		
 
 ----------
 
