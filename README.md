@@ -1,6 +1,10 @@
 ﻿
 # Pokémon XD: DX [Director's Cut]
 
+<p align="center">
+  <img src="Graphics/DX_logo.png" width="60%">
+</p>
+
 Pokémon XD: DX [Director’s Cut] is a feature-rich romhack that keeps the original story intact but transforms the entire experience. Trainer teams have been completely reworked, nearly every Pokémon line is obtainable, and Pokemon Stats, Abilities and Movesets have been overhauled to keep battles fresh. DX embraces the Shadow Pokémon theme with a darker, stylized aesthetic and a stronger focus on variety and challenge. While not a “vanilla” replay, DX builds on the foundations of Gale of Darkness and XG: Next Gen to provide a more dynamic and enjoyable experience for long-time fans of the series.
 
 To download the patch use my [DX ROM Patcher](https://pepgames.github.io/DXRomPatcher/)
@@ -66,8 +70,6 @@ If you encounter bugs or issues, or would like to help development, please get i
     
 -   Significantly more varied music
     
--   Hand-edited Trainers & Bosses
-    
 -   **And much more…**
 
 ----------
@@ -114,7 +116,35 @@ If you encounter bugs or issues, or would like to help development, please get i
   <li>Hisuian Electrode</li>
   <li>Hisuian Arcanine</li>
 </ul>
-    
+----------
+## Starter Pokémon
+
+<!-- Two images side by side -->
+<p align="center">
+  <img src="Graphics/Starter_Pokemon_Poster_Poochy.png" width="45%">
+  <img src="Graphics/Starter_Pokemon_Poster_Skitty.png" width="45%">
+</p>
+
+<!-- Single image per line -->
+<p align="center">
+  <img src="Graphics/Pokemon_Trainer_Poster_Red.png" width="60%">
+</p>
+<p align="center">
+  <img src="Graphics/Pokemon_Trainer_Poster_Blue.png" width="60%">
+</p>
+<p align="center">
+  <img src="Graphics/Pokemon_Trainer_Poster_Green.png" width="60%">
+</p>
+<p align="center">
+  <img src="Graphics/Pokemon_Trainer_Poster_Yellow.png" width="60%">
+</p>
+<p align="center">
+  <img src="Graphics/Pokemon_Trainer_Poster_Purple.png" width="60%">
+</p>
+<p align="center">
+  <img src="Graphics/Pokemon_Trainer_Poster_Brown.png" width="60%">
+</p>
+
 ----------
 ## FAQ
 
@@ -149,7 +179,7 @@ If you encounter bugs or issues, or would like to help development, please get i
   DX is not compatible with most save editors, including PKHeX and PKHax. These will cause unintended issues, and most likely, won't work at all.  
 
   Several tutorials have been created online for editing XG: Next Gen save data, and these can sometimes be used to edit DX save data.  
-  But ultimately, I wouldn't recommend it — it’s more of a headache than it’s worth.
+  But ultimately, I wouldn't recommend it, it’s more of a headache than it’s worth.
 </details>
 
 <details>
@@ -158,7 +188,7 @@ If you encounter bugs or issues, or would like to help development, please get i
   There will be black bars on both the left and right side of the screen.  
 
   You <em>can</em> scale it up to a higher resolution (6x–8x recommended) to get a crisp image.  
-  But using widescreen cheats or hacks may cause unintended behaviors and crashes — do so at your own risk.
+  But using widescreen cheats or hacks may cause unintended behaviors and crashes, do so at your own risk.
 </details>
 
 <details>
