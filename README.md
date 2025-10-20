@@ -116,6 +116,13 @@ If you encounter bugs or issues, or would like to help development, please get i
   <li>Hisuian Electrode</li>
   <li>Hisuian Arcanine</li>
 </ul>
+<details>
+  <summary><strong>Spoilers</strong></summary>
+  Charcoalt <em>WIP</em>
+  Rainier
+  Sapusaur
+  Gilamence <em>WIP</em>
+</details>
 
 ----------
 
