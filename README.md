@@ -122,8 +122,8 @@ If you encounter bugs or issues, or would like to help development, please get i
 
 <!-- Two images side by side -->
 <p align="center">
-  <img src="Graphics/Starter_Pokemon_Poster_Poochy.png" width="50%">
-  <img src="Graphics/Starter_Pokemon_Poster_Skitty.png" width="50%">
+  <img src="Graphics/Starter_Pokemon_Poster_Poochy.png" width="48%">
+  <img src="Graphics/Starter_Pokemon_Poster_Skitty.png" width="48%">
 </p>
 
 <!-- Single image per line -->
