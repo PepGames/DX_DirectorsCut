@@ -123,6 +123,8 @@ If you encounter bugs or issues, or would like to help development, please get i
     <li>Rainier</li>
     <li>Sapusaur</li>
     <li>Gilamence <em>WIP</em></li>
+    <li>DX002 <em>WIP</em></li>
+    <li>DX003 <em>WIP</em></li>
   </ul>
 </details>
 
