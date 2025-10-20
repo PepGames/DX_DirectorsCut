@@ -118,10 +118,12 @@ If you encounter bugs or issues, or would like to help development, please get i
 </ul>
 <details>
   <summary><strong>Spoilers</strong></summary>
-  Charcoalt <em>WIP</em>
-  Rainier
-  Sapusaur
-  Gilamence <em>WIP</em>
+  <ul>
+    <li>Charcoalt <em>WIP</em></li>
+    <li>Rainier</li>
+    <li>Sapusaur</li>
+    <li>Gilamence <em>WIP</em></li>
+  </ul>
 </details>
 
 ----------
