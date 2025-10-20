@@ -117,32 +117,33 @@ If you encounter bugs or issues, or would like to help development, please get i
   <li>Hisuian Arcanine</li>
 </ul>
 ----------
+
 ## Starter Pokémon
 
 <!-- Two images side by side -->
 <p align="center">
-  <img src="Graphics/Starter_Pokemon_Poster_Poochy.png" width="45%">
-  <img src="Graphics/Starter_Pokemon_Poster_Skitty.png" width="45%">
+  <img src="Graphics/Starter_Pokemon_Poster_Poochy.png" width="50%">
+  <img src="Graphics/Starter_Pokemon_Poster_Skitty.png" width="50%">
 </p>
 
 <!-- Single image per line -->
 <p align="center">
-  <img src="Graphics/Pokemon_Trainer_Poster_Red.png" width="60%">
+  <img src="Graphics/Pokemon_Trainer_Poster_Red.png" width="100%">
 </p>
 <p align="center">
-  <img src="Graphics/Pokemon_Trainer_Poster_Blue.png" width="60%">
+  <img src="Graphics/Pokemon_Trainer_Poster_Blue.png" width="100%">
 </p>
 <p align="center">
-  <img src="Graphics/Pokemon_Trainer_Poster_Green.png" width="60%">
+  <img src="Graphics/Pokemon_Trainer_Poster_Green.png" width="100%">
 </p>
 <p align="center">
-  <img src="Graphics/Pokemon_Trainer_Poster_Yellow.png" width="60%">
+  <img src="Graphics/Pokemon_Trainer_Poster_Yellow.png" width="100%">
 </p>
 <p align="center">
-  <img src="Graphics/Pokemon_Trainer_Poster_Purple.png" width="60%">
+  <img src="Graphics/Pokemon_Trainer_Poster_Purple.png" width="100%">
 </p>
 <p align="center">
-  <img src="Graphics/Pokemon_Trainer_Poster_Brown.png" width="60%">
+  <img src="Graphics/Pokemon_Trainer_Poster_Brown.png" width="100%">
 </p>
 
 ----------
