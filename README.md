@@ -2,7 +2,7 @@
 # Pokémon XD: DX [Director's Cut]
 
 <p align="center">
-  <img src="Graphics/DX_logo.png" width="60%">
+  <img src="Graphics/DX_logo.png" width="100%">
 </p>
 
 Pokémon XD: DX [Director’s Cut] is a feature-rich romhack that keeps the original story intact but transforms the entire experience. Trainer teams have been completely reworked, nearly every Pokémon line is obtainable, and Pokemon Stats, Abilities and Movesets have been overhauled to keep battles fresh. DX embraces the Shadow Pokémon theme with a darker, stylized aesthetic and a stronger focus on variety and challenge. While not a “vanilla” replay, DX builds on the foundations of Gale of Darkness and XG: Next Gen to provide a more dynamic and enjoyable experience for long-time fans of the series.
