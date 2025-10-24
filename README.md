@@ -63,6 +63,8 @@ If you encounter bugs or issues, or would like to help development, please get i
 -   More than 40+ Trainers inspired by main-line games
     
 -   Reworked Item Drops + New Items
+
+-   Gen 6+ Mechanics including Fairy type and the Physical/Special Split
     
 -   Modern Exp. Share (always on)
     
