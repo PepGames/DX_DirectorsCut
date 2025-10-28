@@ -7,7 +7,7 @@
 
 Pokémon XD: DX [Director’s Cut] is a feature-rich romhack that keeps the original story intact but transforms the entire experience. Trainer teams have been completely reworked, nearly every Pokémon line is obtainable, and Pokemon Stats, Abilities and Movesets have been overhauled to keep battles fresh. DX embraces the Shadow Pokémon theme with a darker, stylized aesthetic and a stronger focus on variety and challenge. While not a “vanilla” replay, DX builds on the foundations of Gale of Darkness and XG: Next Gen to provide a more dynamic and enjoyable experience for long-time fans of the series.
 
-To **PLAY** DX, use my [DX ROM Patcher](https://pepgames.github.io/DXRomPatcher/)
+To **PLAY** DX, use my [DX ROM Patcher](https://games.pepuniverse.com/DXRomPatcher/)
 
 Documentation for DX can be found on this [Google Sheet](https://docs.google.com/spreadsheets/d/1O92dPu37y9mtZy_nKX-jNfSCDalyDPmfbX4poxMdtPo/edit?usp=sharing)
 
