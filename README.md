@@ -36,7 +36,7 @@ There are several creative liberties taken, a handful of fakemon, and aesthetic 
 Additionally, 90% of the game has been completely overhauled, so this is NOT a vanilla experience be aware that ***it will not try to be***.
 
 This project would not have even remotely been possible without the groundwork laid out by **StarsMMD** and all the lovely people over in the NGC/Wii Pokémon Romhacking Community.  
-Thank you all so much for your help. If you or a friend are interested in NGC/Wii Pokémon Romhacking, come join us in the Discord — we have a lot of fun there!
+Thank you all so much for your help. If you or a friend are interested in NGC/Wii Pokémon Romhacking, come join us in the Discord, we have a lot of fun there!
 
 If you encounter bugs or issues, or would like to help development, please get in touch with me on [Discord](https://discord.gg/5qDCQpNPP6) so we can fix/upgrade the romhack ASAP.
 
