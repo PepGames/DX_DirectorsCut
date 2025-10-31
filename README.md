@@ -9,7 +9,7 @@ Pokémon XD: DX [Director’s Cut] is a feature-rich romhack that keeps the orig
 
 To **PLAY** DX, use my [DX ROM Patcher](https://games.pepuniverse.com/DXRomPatcher/)
 
-Documentation for DX can be found on this [Google Sheet](https://docs.google.com/spreadsheets/d/1O92dPu37y9mtZy_nKX-jNfSCDalyDPmfbX4poxMdtPo/edit?usp=sharing)
+Documentation for DX can be found on this [Google Sheet](https://docs.google.com/spreadsheets/d/1anoBr1vyvQJvw68f5l1PMb85qUmpasLHl8ceooiOhbM/edit?usp=sharing)
 
 **Please Note:**  
 THIS ROMHACK IS NOT COMPATIBLE WITH MODERN POKÉMON GAMES.  
